@@ -1,4 +1,0 @@
-Create Upload Modules
-module 1: Relabelling the PDB files
-module 2: Cell List Generation
-module 3: Sorting and Alignment
